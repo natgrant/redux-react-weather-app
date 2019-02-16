@@ -17,3 +17,7 @@ td:first-of-type > div {
   height: 200px;
   width: 250px;
 }
+
+.error-null-entry {
+  color: red;
+}
